@@ -1,0 +1,21 @@
+{
+  "name": "com.postegames.threedeeimposters",
+  "version": "1.0.0",
+  "displayName": "PEGGAME - Three Dee Imposters",
+  "description": "Supplemental imposter system for improved performance using Three Dee Sprites.",
+  "unity": "2022.2",
+  "keywords": [
+    "sprite",
+    "rendering",
+    "prerender",
+    "2D"
+  ],
+  "author": {
+    "name": "Sluggy",
+    "email": "jcsluggy@gmail.com",
+    "url": "http:/postegames.com"
+  },
+  "dependencies": {
+    "com.postegames.threedeesprites": ""
+  }
+}
